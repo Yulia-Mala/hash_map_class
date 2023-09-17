@@ -128,7 +128,7 @@ ENV/
 env.bak/
 hash_map_venv.bak/
 
-
+*.iml
 # Spyder project settings
 .spyderproject
 .spyproject
