@@ -121,13 +121,15 @@ celerybeat.pid
 
 # Environments
 .env
-.venv
+.hash_map_venv
 env/
-venv/
+hash_map_venv/
 ENV/
 env.bak/
-venv.bak/
+hash_map_venv.bak/
 
+*.iml
+*.xml
 # Spyder project settings
 .spyderproject
 .spyproject
